@@ -1,6 +1,7 @@
 version: 2
 updates:
+  # 3rd-party dependencies are placed in git submodules
   - package-ecosystem: "gitsubmodule"
-    directory: "/"
+    directory: "/"  # the .gitmodules file must be placed at the top-level directory of a git working tree
     schedule:
       interval: "daily"

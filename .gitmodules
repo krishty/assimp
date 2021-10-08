@@ -4,3 +4,28 @@
 [submodule "contrib/utf8cpp"]
 	path = contrib/utf8cpp
 	url = https://github.com/nemtrif/utfcpp.git
+[submodule "contrib/unzip"]
+	path = contrib/unzip
+	url = https://chromium.googlesource.com/external/github.com/nmoinvaz/minizip
+	branch = 1.2
+[submodule "contrib/rapidjson"]
+	path = contrib/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "contrib/poly2tri"]
+	path = contrib/poly2tri
+	url = https://github.com/jhasse/poly2tri.git
+[submodule "contrib/openddlparser"]
+	path = contrib/openddlparser
+	url = https://github.com/kimkulling/openddl-parser
+[submodule "contrib/draco"]
+	path = contrib/draco
+	url = https://github.com/google/draco.git
+[submodule "contrib/android-cmake"]
+	path = contrib/android-cmake
+	url = https://github.com/taka-no-me/android-cmake.git
+[submodule "contrib/googletest"]
+	path = contrib/googletest
+	url = https://github.com/google/googletest.git
+[submodule "contrib/pugixml"]
+	path = contrib/pugixml
+	url = https://github.com/zeux/pugixml.git
